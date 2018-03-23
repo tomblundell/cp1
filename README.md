@@ -1,13 +1,13 @@
-### Training
+# Training
 
 - [x] GIT Training
 
-# HTML5
+### HTML5
 - [] Fundamentals
 - [] Intermediate
 - [] Advanced
 
-# Javascript
+### Javascript
 - [] Fundamentals
 - [] Intermediate
 - [] Advanced
