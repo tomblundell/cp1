@@ -1,18 +1,16 @@
 # Training
 
+## Basics & Ops/Infra
 - [x] GIT Training
+- [X] DevOps Infra
+- [ ] HTML5
+- [ ] CSS3
+- [ ] Open Stack Admin
+- [ ] MySQL
+- [ ] Setup DevOps Pipeline
 
-## HTML5
-- [ ] Fundamentals
-- [ ] Intermediate
-- [ ] Advanced
-
-## CSS3
-- [ ] Positioning
-- [ ] Responsive Designs
-- [ ] Transitions/Generated Content
-
-## Javascript
-- [ ] Fundamentals
-- [ ] Intermediate
-- [ ] Advanced
+## Programming
+- [ ] Javascript
+- [ ] Angular
+- [ ] Angular.js
+- [ ] Node.js
