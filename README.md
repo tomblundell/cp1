@@ -7,6 +7,8 @@
 - [ ] Intermediate
 - [ ] Advanced
 
+## CSS
+
 ## Javascript
 - [ ] Fundamentals
 - [ ] Intermediate
