@@ -7,10 +7,10 @@
 - [ ] Intermediate
 - [ ] Advanced
 
-## CSS
-- [ ]
-- [ ]
-- [ ] 
+## CSS3
+- [ ] Positioning
+- [ ] Responsive Designs
+- [ ] Transitions/Generated Content
 
 ## Javascript
 - [ ] Fundamentals
