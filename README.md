@@ -8,6 +8,9 @@
 - [ ] Advanced
 
 ## CSS
+- [ ]
+- [ ]
+- [ ]
 
 ## Javascript
 - [ ] Fundamentals
