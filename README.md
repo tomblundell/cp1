@@ -11,6 +11,7 @@
 
 ## Development
 - [ ] Javascript
+- [ ] Jquery
 - [ ] React.js
 - [ ] Angular
 - [ ] Angular.js
